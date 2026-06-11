@@ -22,3 +22,11 @@ Shows the path packets take to a destination.
 
 Example:
 tracert google.com
+
+## nslookup
+
+Queries DNS servers to resolve hostnames and IP addresses.
+
+Example:
+
+nslookup google.com
